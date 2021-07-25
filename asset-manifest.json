@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dream_Travels/static/css/main.eb2b6686.chunk.css",
+    "main.js": "/Dream_Travels/static/js/main.d9b9c2f3.chunk.js",
+    "main.js.map": "/Dream_Travels/static/js/main.d9b9c2f3.chunk.js.map",
+    "runtime-main.js": "/Dream_Travels/static/js/runtime-main.eb1b4f9c.js",
+    "runtime-main.js.map": "/Dream_Travels/static/js/runtime-main.eb1b4f9c.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/Dream_Travels/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.4c9937b8.chunk.js": "/Dream_Travels/static/js/2.4c9937b8.chunk.js",
+    "static/js/2.4c9937b8.chunk.js.map": "/Dream_Travels/static/js/2.4c9937b8.chunk.js.map",
+    "static/js/3.1942d283.chunk.js": "/Dream_Travels/static/js/3.1942d283.chunk.js",
+    "static/js/3.1942d283.chunk.js.map": "/Dream_Travels/static/js/3.1942d283.chunk.js.map",
+    "index.html": "/Dream_Travels/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/Dream_Travels/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.eb2b6686.chunk.css.map": "/Dream_Travels/static/css/main.eb2b6686.chunk.css.map",
+    "static/js/2.4c9937b8.chunk.js.LICENSE.txt": "/Dream_Travels/static/js/2.4c9937b8.chunk.js.LICENSE.txt",
+    "static/media/image1.20e0eca9.jpg": "/Dream_Travels/static/media/image1.20e0eca9.jpg",
+    "static/media/image2.c72f375c.jpg": "/Dream_Travels/static/media/image2.c72f375c.jpg",
+    "static/media/image3.1b55fbf4.jpg": "/Dream_Travels/static/media/image3.1b55fbf4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1b4f9c.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.4c9937b8.chunk.js",
+    "static/css/main.eb2b6686.chunk.css",
+    "static/js/main.d9b9c2f3.chunk.js"
+  ]
+}
